@@ -4,11 +4,11 @@ I built a dumb machine.
 
 Try it out:
 
-- `./dumb 3x3.dumb`
+- `./dumb examples/3x3.dumb`
 
 Will multiply 3 and 3 and print the result.
 
-- `./dumb linked-list.dumb`
+- `./dumb examples/linked-list.dumb`
 
 Will iterate through a small linked list and print out each value.
 
